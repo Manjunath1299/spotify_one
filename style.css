@@ -1,0 +1,90 @@
+body{
+    background-color: #000000;
+    color:white;
+    font-family: DM Sans;
+}
+.main_content{
+    /* width:1928px; */
+    /* height:1317px; */
+    top:-6px;
+    left:17px;
+    border:1px solid white;
+    color:white
+}
+/* nav bar */
+.nav_spotify{
+ width:372px;
+ height: 982px;
+}
+.nav_spotify>svg{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.nav_first{
+    width: 347.1px;
+    height: 170.46px;
+    top: 138.11px;
+    left: 12.35px;
+    border-radius: 6px;
+    margin-left: 20px;
+}
+.nav_first div{
+    width: 347.1px;
+    height: 61.76px;
+    top: 138.11px;
+    left: 12.35px;
+    border-radius: 6px;
+    background-color: #282828;
+}
+svg>span{
+    padding:5px;
+    text-align: left;
+    padding-top: 5px;
+}
+.left_middle{
+    margin-left: 20px;
+}
+.left_playlist_box{
+    width: 213.69px;
+height: 277.92px;
+top: 580.32px;
+left: 37.06px;
+margin-left: 20px;
+}
+.left_playlist_box div{
+    font-size: 19px;
+    padding: 7px;
+    font-weight: 700;
+}
+/* main */
+.arrow>svg{
+    margin-bottom: 10px;
+}
+.play{
+   height:294px;
+   width:1147px;
+}
+.main_playlist{
+    width:1147px;
+    height:1116px;
+    margin-left: 50px;
+}
+.playlist svg{
+    height:80px;
+    width:360px;
+    margin: 10px;
+}
+.main_artists{
+    height: 664px;
+    width:1103px;
+}
+.artists img{
+  height:290px;
+  width:245px;
+  margin:5px;
+}
+/* user */
+.last>svg{
+    margin-bottom: 310px;
+}
+/* footer */
